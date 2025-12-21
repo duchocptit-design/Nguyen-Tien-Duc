@@ -1,0 +1,376 @@
+{
+	"name": "rau",
+	"version": "0.6.2.4",
+	"worldkey": 0,
+	"gem": 0,
+	"sprout": 0,
+	"coin": 0,
+	"time": 1766338966139,
+	"tutorial": {
+		"plantfood": false,
+		"almanac_open": false,
+		"almanac_intro": false,
+		"store_open": false,
+		"store_intro": false,
+		"premium_light_up": false,
+		"premium_bring_out": false,
+		"premium_unlock": false
+	},
+	"date": {
+		"date": 22,
+		"month": 11,
+		"year": 2025,
+		"plantCostumeToday": []
+	},
+	"zombieProps": {},
+	"plantProps": {},
+	"upgradeProps": {},
+	"trophyProps": {},
+	"worldProgress": [],
+	"levelProps": {},
+	"zengarden": {
+		"sprout": 0,
+		"plantsInMain": [],
+		"plantsInMushroom": [],
+		"plantsInBeach": [],
+		"plantInCart": null
+	},
+	"cardDecks": [],
+	"memorySeedChoose": [],
+	"difficulty": 3,
+	"worldProps": {
+		"0": {
+			"unlocked": false,
+			"viewed": false,
+			"wmx": 0,
+			"endlessProps": {
+				"level": 1,
+				"obtainedPlants": [],
+				"plantfood": 0,
+				"mower": [
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"initialPlants": [],
+				"plantChosen": false,
+				"plantsToChoose": null
+			},
+			"endlessMiniGameProps": {
+				"level": 1
+			}
+		},
+		"1": {
+			"unlocked": false,
+			"viewed": false,
+			"wmx": 0,
+			"endlessProps": {
+				"level": 1,
+				"obtainedPlants": [],
+				"plantfood": 0,
+				"mower": [
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"initialPlants": [],
+				"plantChosen": false,
+				"plantsToChoose": null
+			},
+			"endlessMiniGameProps": {
+				"level": 1
+			}
+		},
+		"2": {
+			"unlocked": false,
+			"viewed": false,
+			"wmx": 0,
+			"endlessProps": {
+				"level": 1,
+				"obtainedPlants": [],
+				"plantfood": 0,
+				"mower": [
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"initialPlants": [],
+				"plantChosen": false,
+				"plantsToChoose": null
+			},
+			"endlessMiniGameProps": {
+				"level": 1
+			}
+		},
+		"3": {
+			"unlocked": false,
+			"viewed": false,
+			"wmx": 0,
+			"endlessProps": {
+				"level": 1,
+				"obtainedPlants": [],
+				"plantfood": 0,
+				"mower": [
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"initialPlants": [],
+				"plantChosen": false,
+				"plantsToChoose": null
+			},
+			"endlessMiniGameProps": {
+				"level": 1
+			}
+		},
+		"4": {
+			"unlocked": false,
+			"viewed": false,
+			"wmx": 0,
+			"endlessProps": {
+				"level": 1,
+				"obtainedPlants": [],
+				"plantfood": 0,
+				"mower": [
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"initialPlants": [],
+				"plantChosen": false,
+				"plantsToChoose": null
+			},
+			"endlessMiniGameProps": {
+				"level": 1
+			}
+		},
+		"5": {
+			"unlocked": false,
+			"viewed": false,
+			"wmx": 0,
+			"endlessProps": {
+				"level": 1,
+				"obtainedPlants": [],
+				"plantfood": 0,
+				"mower": [
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"initialPlants": [],
+				"plantChosen": false,
+				"plantsToChoose": null
+			},
+			"endlessMiniGameProps": {
+				"level": 1
+			}
+		},
+		"6": {
+			"unlocked": false,
+			"viewed": false,
+			"wmx": 0,
+			"endlessProps": {
+				"level": 1,
+				"obtainedPlants": [],
+				"plantfood": 0,
+				"mower": [
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"initialPlants": [],
+				"plantChosen": false,
+				"plantsToChoose": null
+			},
+			"endlessMiniGameProps": {
+				"level": 1
+			}
+		},
+		"7": {
+			"unlocked": false,
+			"viewed": false,
+			"wmx": 0,
+			"endlessProps": {
+				"level": 1,
+				"obtainedPlants": [],
+				"plantfood": 0,
+				"mower": [
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"initialPlants": [],
+				"plantChosen": false,
+				"plantsToChoose": null
+			},
+			"endlessMiniGameProps": {
+				"level": 1
+			}
+		},
+		"8": {
+			"unlocked": false,
+			"viewed": false,
+			"wmx": 0,
+			"endlessProps": {
+				"level": 1,
+				"obtainedPlants": [],
+				"plantfood": 0,
+				"mower": [
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"initialPlants": [],
+				"plantChosen": false,
+				"plantsToChoose": null
+			},
+			"endlessMiniGameProps": {
+				"level": 1
+			}
+		},
+		"9": {
+			"unlocked": false,
+			"viewed": false,
+			"wmx": 0,
+			"endlessProps": {
+				"level": 1,
+				"obtainedPlants": [],
+				"plantfood": 0,
+				"mower": [
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"initialPlants": [],
+				"plantChosen": false,
+				"plantsToChoose": null
+			},
+			"endlessMiniGameProps": {
+				"level": 1
+			}
+		},
+		"10": {
+			"unlocked": false,
+			"viewed": false,
+			"wmx": 0,
+			"endlessProps": {
+				"level": 1,
+				"obtainedPlants": [],
+				"plantfood": 0,
+				"mower": [
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"initialPlants": [],
+				"plantChosen": false,
+				"plantsToChoose": null
+			},
+			"endlessMiniGameProps": {
+				"level": 1
+			}
+		},
+		"11": {
+			"unlocked": false,
+			"viewed": false,
+			"wmx": 0,
+			"endlessProps": {
+				"level": 1,
+				"obtainedPlants": [],
+				"plantfood": 0,
+				"mower": [
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"initialPlants": [],
+				"plantChosen": false,
+				"plantsToChoose": null
+			},
+			"endlessMiniGameProps": {
+				"level": 1
+			}
+		},
+		"12": {
+			"unlocked": false,
+			"viewed": false,
+			"wmx": 0,
+			"endlessProps": {
+				"level": 1,
+				"obtainedPlants": [],
+				"plantfood": 0,
+				"mower": [
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"initialPlants": [],
+				"plantChosen": false,
+				"plantsToChoose": null
+			},
+			"endlessMiniGameProps": {
+				"level": 1
+			}
+		},
+		"13": {
+			"unlocked": false,
+			"viewed": false,
+			"wmx": 0,
+			"endlessProps": {
+				"level": 1,
+				"obtainedPlants": [],
+				"plantfood": 0,
+				"mower": [
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"initialPlants": [],
+				"plantChosen": false,
+				"plantsToChoose": null
+			},
+			"endlessMiniGameProps": {
+				"level": 1
+			}
+		},
+		"currentWM": 0,
+		"worldChooserPos": 0
+	},
+	"egyptWMX": 0,
+	"pirateWMX": 0,
+	"cowboyWMX": 0,
+	"futureWMX": 0,
+	"darkWMX": 0,
+	"beachWMX": 0,
+	"iceageWMX": 0,
+	"lostcityWMX": 0,
+	"epicWMX": 0
+}
